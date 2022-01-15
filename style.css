@@ -790,10 +790,12 @@ footer .contact a:hover{
   .keypoints{
     display: flex;
     flex-direction: column;
-    width: 100%;
+    width: 96%;
+    margin: 2%;
+    padding: 2%;
     justify-content: center;
     align-items: center;
-    padding: 10px;
+   
   }
   .keypoints h2{
     font-size: 33px;
